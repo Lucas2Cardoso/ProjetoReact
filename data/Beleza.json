@@ -1,0 +1,34 @@
+{
+    "Beleza": [
+        {
+            "id": 6,
+            "nome": "KIT AVÈNE CLEANANCE",
+            "descricao": "GEL DE LIMPEZA PURIFICANTE 150G + 40G",
+            "preco": 60.99
+        },
+        {
+            "id": 7,
+            "nome": "SABONETE LÍQUIDO",
+            "descricao": "ACTINE CONTROL PELE OLEOSA COM 240ML",
+            "preco": 49.99
+        },
+        {
+            "id": 8,
+            "nome": "CURATIVO PARA ACNE",
+            "descricao": "NEEDS PELE OLEOSA E ACNEICA 24 UNIDADES",
+            "preco": 24.99
+        },
+        {
+            "id": 9,
+            "nome": "LOÇÃO HIDRATANTE CORPORAL NIVEA MILK",
+            "descricao": "HIDRATAÇÃO PROFUNDA PELE SECA 400ML",
+            "preco": 19.99
+        },
+        {
+            "id": 10,
+            "nome": "ÓLEO DE LIMPEZA",
+            "descricao": "DEMAQUILANTE BIORÉ REFIL COM 210ML",
+            "preco": 49.99
+        }
+    ]
+}

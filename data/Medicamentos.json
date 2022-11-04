@@ -1,0 +1,35 @@
+{
+    "Medicamentos": [
+        {
+            "id": 1,
+            "nome": "DORFLEX DIPIRONA SÓDICA",
+            "descricao": "300MG + CITRATO DE ORFENADRINA 35MG + CAFEÍNA 50MG 10 COMPRIMIDOS",
+            "preco": 7.13
+        },
+        {
+            "id": 2,
+            "nome": "CLORIDRATO DE METFORMINA",
+            "descricao": "500MG 30 COMPRIMIDOS",
+            "preco": 10.59
+        },
+        {
+            "id": 3,
+            "nome": "LOSARTANA POTÁSSICA",
+            "descricao": "50MG 30 COMPRIMIDOS MEDLEY GENÉRICO",
+            "preco": 10.35
+        },
+        {
+            "id": 4,
+            "nome": "CIMEGRIPE CLORIDRATO FENILLEFRINA",
+            "descricao": "4MG + PARACETAMOL 400MG + MALEATO DE CLORFENIRAMINA 4MG 20 CÁPSULAS",
+            "preco": 8.99
+        },
+        {
+            "id": 5,
+            "nome": "TADALAFILA",
+            "descricao": "20MG 4 COMPRIMIDOS CIMED GENÉRICO",
+            "preco": 14.99
+        }
+          
+    ]
+}
